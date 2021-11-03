@@ -1,2 +1,2 @@
 # selinaschoice
-recipe site
+Rezepte von Simon und Selina
